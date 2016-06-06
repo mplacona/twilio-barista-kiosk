@@ -1355,9 +1355,9 @@ a.thumbnail.active {
   color: #333333;
 }
 body {
-  background: url(./bg.png);
+  background: #0D112B;
   font-size: 24px;
-  color: #b1aba0;
+  color: rgba(255, 255, 255, 0.65);
   font-family: 'Khand', sans-serif;
 }
 .banner {
@@ -1388,7 +1388,7 @@ p.hr {
   text-transform: uppercase;
 }
 .hero {
-  margin: 160px auto;
+  margin: 45px auto;
   text-align: center;
 }
 .hero a.h2 {
@@ -1418,7 +1418,7 @@ p.hr:after {
   display: inline-block;
   height: 1px;
   width: 33%;
-  background: #b1aba0;
+  background: rgba(255, 255, 255, 0.65);
   content: "";
   vertical-align: middle;
 }
